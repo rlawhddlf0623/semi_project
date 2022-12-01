@@ -1,6 +1,6 @@
 package com.bitstudy.app;
 
-public class GitTest {
+public class GitTest2 {
 
 
 
